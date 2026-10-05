@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/33072217/README.1.md)
+[README](https://github.com/user-attachments/files/33072217/README.1.md)
 # Projeto de Auditoria de Segurança com Medusa
 
 ## 1. Introdução
